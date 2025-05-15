@@ -1,4 +1,3 @@
 rq
-celery[redis]
 fastapi
 uvicorn
